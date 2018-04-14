@@ -1,0 +1,19 @@
+img{
+	width: 275px;
+	height: 275px;
+}
+h2{
+	background-color: #00FFFF;
+}
+p{
+	background-color: F0F8FF;
+}
+marquee{
+	background-size: 20px;
+	font-family: italic;
+	background-color: #FF0000;
+	height: 50px;
+}
+hr{
+	border-width: 20px;
+}
